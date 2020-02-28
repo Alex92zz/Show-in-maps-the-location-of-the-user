@@ -1,0 +1,16 @@
+/* Geolocation */
+
+h1 {
+    font-size: 1.4rem;
+    /* Reduce gap before/after headings to make things a bit neater */
+    margin: 0.25rem 0;
+}
+
+@media (pointer: coarse) {
+
+    /* Make buttons easier to tap on mobile devices */
+    button {
+        font-size: 2rem;
+        padding: 1rem;
+    }
+}
