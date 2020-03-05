@@ -1,5 +1,7 @@
 # Show in maps the location of the user
 
+The main purpose of this project is to demonstrate how to find the location of the user. 
+
 There are 3 files in this repository, one HTML, one CSS and one JavaScript.
 The HTML is a page easy to understand because there is not a lot of code written, I wanted to keep it simple.
 
